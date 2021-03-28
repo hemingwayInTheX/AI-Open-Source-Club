@@ -7,6 +7,7 @@
     - scikit-learn : 0.24.1
 Used Book : 파이썬 머신러닝 판다스 데이터 분석
 
+Library
 How to Download(cmd) and Why we need it
 
 Pandas
