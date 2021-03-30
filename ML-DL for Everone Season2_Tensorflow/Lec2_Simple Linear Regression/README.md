@@ -8,12 +8,12 @@
 
 
 ### 3. Hypothesis ( Linear )
-> H(x) = Wx + b ( W = Weight, b = bias )
+> *H(x) = Wx + b ( W = Weight, b = bias )
 
 
 ### 4. Cost
-> 데이터의 값과 Hypothesis의 차이를 나타내는 값
-> Cost(W, b) = $$\sum\limits_{i=1}^{m}({H(x)-y_i})^2
+> 데이터의 값과 Hypothesis의 차이를 나타내는 값  
+> Cost = H(x) - y
 
 
 ### 5. Goal : Minimize Cost
@@ -21,8 +21,8 @@
 
 
 ### 6. Gradient Descent Algorithm
-> 보편적인 Cost 최소화 알고리즘
-> 초기값 부터 Weight, Bias 값의 기울기를 조정해 나가며 해당하는 방정식을 찾아간다.
-> Gradient Tape : 변수들을 기록하는 역할이며, 후에 변수들에 대한 기울기 값. 즉, 미분값을 반환하기 위함
-> Learning rate : Gradient 값을 얼마만큼 적용할지 정해주는 변수( 매우 작은 값을 사용 )
-> Epoch : 반복회수
+> 보편적인 Cost 최소화 알고리즘   
+> 초기값 부터 Weight, Bias 값의 기울기를 조정해 나가며 해당하는 방정식을 찾아간다.  
+> *Gradient Tape : 변수들을 기록하는 역할이며, 후에 변수들에 대한 기울기 값. 즉, 미분값을 반환하기 위함  
+> *Learning rate : Gradient 값을 얼마만큼 적용할지 정해주는 변수( 매우 작은 값을 사용 )  
+> *Epoch : 반복회수
