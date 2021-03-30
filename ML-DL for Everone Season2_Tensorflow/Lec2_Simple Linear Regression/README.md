@@ -4,16 +4,27 @@
 
 
 ### 2. Linear Regression
-> 데이터를 가장 잘 대변하는 직선의 방정식을 찾는 것 ( Y = ax + b )
+> 데이터를 가장 잘 대변하는 직선의 방정식을 찾는 것
+> $$
+> y  = ax + b
+> $$
+> 
 
 
 ### 3. Hypothesis ( Linear )
-> *H(x) = Wx + b ( W = Weight, b = bias )
+> *W = Weight   /   b = bias
+> $$
+> H(x) = Wx + b
+> $$
+> 
 
 
 ### 4. Cost
 > 데이터의 값과 Hypothesis의 차이를 나타내는 값  
-> Cost = H(x) - y
+> $$
+> Cost(W, b) = \frac{1}{m}\sum\limits_{i=1}^{m}{(H(x_i)-y_i)^2}
+> $$
+> 
 
 
 ### 5. Goal : Minimize Cost
