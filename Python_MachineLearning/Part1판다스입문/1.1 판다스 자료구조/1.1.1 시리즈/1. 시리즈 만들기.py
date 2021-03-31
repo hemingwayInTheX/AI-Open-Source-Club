@@ -24,3 +24,12 @@ print('\n')
 
 #sr에 저장된 값 출력
 print(sr)
+
+# 결과 : 
+# <class 'pandas.core.series.Series'>
+
+
+# a    1      
+# b    2      
+# c    3      
+

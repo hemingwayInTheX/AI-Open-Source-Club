@@ -72,6 +72,7 @@ print(type(math2))
 # 2  70
 # <class 'pandas.core.frame.DataFrame'>
 
+
 # 범위 슬라이싱의 고급 활용
 # 사용법 : DataFrame 객체.iloc[ 시작 인덱스:끝인덱스:슬라이싱 간격]
 # 리턴값 : 슬라이싱 간격만큼 이동하면서 행값을 가지고옴

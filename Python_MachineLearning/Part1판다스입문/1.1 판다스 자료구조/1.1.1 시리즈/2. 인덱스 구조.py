@@ -38,4 +38,8 @@ print(idx)
 print('\n')
 print(val)
 
-#결과 값
+# 결과 값
+# RangeIndex(start=0, stop=5, step=1)
+
+
+# ['20190-01-02' 3.14 'ABC' 100 True]
