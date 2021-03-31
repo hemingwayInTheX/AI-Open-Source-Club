@@ -6,3 +6,5 @@ AI-Open-Source-Club for Yonsei Mirae Campus
 * https://www.youtube.com/watch?v=7eldOrjQVi0&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C
 >[ 2021.03.29 ]   Lec1. Machine Learning Basics  
 >[ 2021.03.30 ]   Lec2. Simple Linear Regression  /  Lab2
+>
+>[ 2021.03.31 ]   Lec3. How to Minimize Cost / Lab3
