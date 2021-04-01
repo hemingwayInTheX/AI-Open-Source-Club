@@ -10,7 +10,7 @@ W = tf.Variable(2.9)
 b = tf.Variable(0.5)
 
 learning_rate = 0.01
-
+'''
 for i in range(100+1): # W, b update
     # Gradient Descent
     with tf.GradientTape() as tape:
@@ -40,3 +40,4 @@ for i in range(100+1): # W, b update
   100|    1.0048|  -0.01733|  0.000055
 : W = 1, b = 0으로 수렴한다
 """
+'''
