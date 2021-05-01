@@ -2,7 +2,7 @@
 
 ## 📌 How to study Machine Learning
 
-### ✔ What is Machine Learning?
+# ✔ What is Machine Learning?
 
 머신러닝은 **컴퓨터가 데이터를 기반으로 학습해 인간이 구현하는 일종의 '알고리즘'을 스스로 만들어낼 수 있는 인공지능(AI)의
 하위 분야입니다.** 교육현장에서 사제관계를 생각하면 머신러닝에 대한 개념이 잘 와닿을 겁니다. 
@@ -15,7 +15,11 @@
 
 
 
-### ✔ Three kinds of Machine Learning
+
+
+
+
+# ✔ Three kinds of Machine Learning
 
 그렇다면 컴퓨터는 어떤 방식으로 학습을 진행하게 될까요? 
 
