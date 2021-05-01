@@ -16,5 +16,10 @@
 ### ✔ Three kinds of Machine Learning
 
 그렇다면 컴퓨터는 어떤 방식으로 학습을 진행하게 될까요? 
-앞서 말했듯이 컴퓨터는 주어진 데이터를 기반으로 학습을 진행한다고 했습니다. 따라서 주어진 데이터에 '정답(LABEL)'이 있는지, 없는지에 따라 크게
-**지도학습(Supervised Learning)과 비지도학습(Unsupervised Learning) 으로 나눌 수 있습니다.**
+
+앞서 말했듯이 컴퓨터는 주어진 데이터를 기반으로 학습을 진행한다고 했습니다. 따라서 주어진 데이터에 '정답(LABEL)'이 있는지, 없는지에 따라 
+크게 **지도학습(Supervised Learning),비지도학습(Unsupervised Learning),강화학습(Reinforcement Learning)으로 나눌 수 있습니다.**
+
+1. **지도학습**
+
+
