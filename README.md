@@ -2,6 +2,14 @@
 
 ## 📌 How to study Machine Learning
 
+![머신러닝 교과서](https://tensorflowkorea.files.wordpress.com/2019/03/x9791160507966.jpg?w=234&h=300)
+
+연세대학교 미래캠퍼스 소프트웨어학과 소속 AI 스터디 동아리에서 해당 도서를 기반으로 머신러닝 스터디를 진행합니다. 
+
+스터디 진행 방식은 다음과 같습니다.
+
+++ 
+
 # ✔ 1.1 What is Machine Learning?(P.32)
 
 머신러닝은 __컴퓨터가 데이터를 기반으로 학습해 인간이 구현하는 일종의 '알고리즘'을 스스로 만들어낼 수 있는 인공지능(AI)의
