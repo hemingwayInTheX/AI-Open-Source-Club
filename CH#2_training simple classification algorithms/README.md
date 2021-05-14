@@ -15,3 +15,4 @@
      
 
 예를 들어 학습률이 0.5, 곱셈계수가 2일 경우를 생각해봅시다.
+![sample](C:\Users\hunta\machineLearning\study.jpg)
