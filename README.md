@@ -2,14 +2,15 @@
 
 ## 📌 How to study Machine Learning
 
-![머신러닝 교과서](https://tensorflowkorea.files.wordpress.com/2019/03/x9791160507966.jpg?w=234&h=300)
+![누구나 파이썬 통계분석](https://www.hanbit.co.kr/data/books/B2049588591_l.jpg?w=234&h=300)
+![머신러닝 교과서](https://tensorflowkorea.files.wordpress.com/2019/03/x9791160507966.jpg?w=234&h=300) 
 
 __연세대학교 미래캠퍼스 소프트웨어학과 소속 AI 스터디 동아리에서 해당 도서를 중심으로 머신러닝 스터디를 진행합니다.__ 
 
 스터디 진행 방식은 다음과 같습니다.
 
 > 1. 매주 1회 TeeamMate [YunHuiYeol](https://github.com/dbsgmlduf) 과 ZOOM 미팅을 통해 2개 CHAPTER 학습 및 1개 CHAPTER 각자 브리핑 준비 
-> 2. 도서 기반 학습은 알고리즘을 분석하는데 필요한 수학적 이론 및 용어 중심으로 학습 계획
+> 2. 도서 기반 학습은 알고리즘을 분석하는데 필요한 수학적 이론 및 용어 중심으로 학습 계획(데이터에 대한 기본적인 안목을 기르기 위해 <통계>학문을 Pandas,numpy를 통해 별도 학습)
 > 3. CHAPTER 6_<모델 평가와 하이퍼파라미터 튜닝의 모범 사례>까지 진도 마무리 되면 KAGGLE에서 제공하는 데이터셋으로 스스로 알고리즘을 
 구현하는 것을 목표로 학습 진행
 > 4. 우선 1회독을 목표로 도서는 최대한 얕고 빠르게 학습 예정
