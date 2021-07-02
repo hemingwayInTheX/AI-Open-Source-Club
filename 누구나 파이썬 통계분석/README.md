@@ -1,7 +1,7 @@
 # PYTHON_Pandas&Numpy
 
 ## ✅판다스(Pandas)란?
-Pandas는 Python을 활용해 데이터 분석을 하기 위한 필수적인 라이브러리입니다. 특히 **행과 열로 이루어진 DataFrame을 만들어**
+Pandas는 Python을 활용해 데이터 분석을 하기 위한 필수적인 라이브러리입니다. 특히 <mark> 행과 열로 이루어진 DataFrame을 만들어 </mark>
 대용량의 데이터를 처리해 데이터 전처리 등 다양한 방법으로 데이터 핸들링을 편리하게 할 수 있습니다. 정리하자면, 표 데이터를 처리하는데 
 특화된 라이브러리라고 생각하면 됩니다. 
 
@@ -14,8 +14,9 @@ SQL을 하신 분들이라면 SELECT문으로 테이블의 칼럼과 로우를 �
 DataFrame은 하나의 열 즉, 1차원 데이터 구조인 Series의 집합입니다. 따라서 DataFrame은 2차원 데이터 구조인 반면, 
 Series는 1차원 데이터 구조로 이루어져 있습니다. 
 
-DataFrame은 크게 두 가지 방법으로 생성할 수 있습니다. 첫 번째 list, dictionary, tuple등 파이썬에서 제공하는 다양한
-데이터타입으로 만드는 방법이 있습니다. 그럼 간단하게 코드를 보면서 예시를 살펴볼까요?
+DataFrame은 크게 두 가지 방법으로 생성할 수 있습니다. **첫 번째 list, dictionary, tuple등 파이썬에서 제공하는 다양한
+데이터타입으로 만드는 방법**이 있습니다. 그럼 간단하게 코드를 보면서 예시를 살펴볼까요?
+![import2](https://user-images.githubusercontent.com/72958464/124281508-bc860d80-db84-11eb-808a-6f0296f86933.jpg)
 
 
 
