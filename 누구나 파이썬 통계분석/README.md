@@ -17,6 +17,7 @@ Series는 1차원 데이터 구조로 이루어져 있습니다.
 DataFrame은 크게 두 가지 방법으로 생성할 수 있습니다. **첫 번째 list, dictionary, tuple등 파이썬에서 제공하는 다양한
 데이터타입으로 만드는 방법**이 있습니다. 
 그럼 간단하게 코드를 보면서 예시를 살펴볼까요?
+
 ![import2](https://user-images.githubusercontent.com/72958464/124281508-bc860d80-db84-11eb-808a-6f0296f86933.jpg)
 
 
