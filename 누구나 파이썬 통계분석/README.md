@@ -40,6 +40,9 @@ DataFrame은 크게 두 가지 방법으로 생성할 수 있습니다. **첫 �
 
 그럼 list와 dictionary를 통해 데이터프레임을 간단하게 만들어볼게요.
 
+## (1) List변환
+
+![dfsdfasdfasdfasdf](https://user-images.githubusercontent.com/72958464/124748050-9afa9c80-df5d-11eb-952b-c494e81e122b.jpg)
 
 
 
